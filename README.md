@@ -57,7 +57,7 @@ This project analyzes Vodafone transaction data from **2014 to 2017** to help de
 ### Page 1 – Landing Page
 KPI cards for **Total Sales, Total Profit, Total Quantity, and Profit Margin**, plus a navigation bar linking to Settings, Reports, Users, Analytics, and Sales Performance.
 
-![Landing Page](images/landing_page.png)
+ ![Landing Page](images/landing_page.png.png)
 
 ### Page 2 – Sales Performance Dashboard
 Includes the following visuals:
@@ -71,7 +71,7 @@ Includes the following visuals:
 | Total Sales By Category | Pie chart | Furniture vs. Office Supplies vs. Technology |
 | Total Sales By Sub-Category | Column chart | Sales across 17 sub-categories |
 
-![Dashboard](images/dashboard.png)
+ ![Dashboard](images/dashboard.png.png)
 
 ---
 
